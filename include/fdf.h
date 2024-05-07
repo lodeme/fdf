@@ -14,8 +14,8 @@
 # define FDF_H
 
 # define M_PI 3.14159265358979323846
-# define WIDTH 51
-# define HEIGHT 51
+# define WIDTH 1920
+# define HEIGHT 1080
 
 # include <stdlib.h>
 # include <unistd.h>
